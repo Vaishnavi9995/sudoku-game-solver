@@ -58,4 +58,4 @@ pip install -r requirements.txt
 ## Conclusion:
 If you're a fan of Sudoku puzzles, Sudoku Solver is the perfect tool to help you solve them quickly and easily. With its powerful algorithm and easy-to-use GUI, you'll be solving puzzles in no time. Plus, Sudoku is a great way to exercise your brain and improve your cognitive abilities, making it a fun and challenging game for people of all ages. So what are you waiting for? Download Sudoku Solver today and start playing!
 
-<p align='center'><b>Made with ❤ by Dhruv Panchal</b></p>
+<p align='center'><b>Made with ❤ by vaishnavi</b></p>
